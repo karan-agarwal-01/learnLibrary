@@ -34,8 +34,6 @@ function App() {
     })
   }
 
-  const a = ;
-
   return (
     <>
     <div className='bg-linear-to-br from-indigo-100 to-purple-100 relative'>

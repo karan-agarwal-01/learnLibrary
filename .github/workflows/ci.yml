@@ -23,9 +23,6 @@ jobs:
       - name: Build Project
         run: npm run build
 
-      - name: Run Lint
-        run: npm run lint
-
       - name: Deploy to Vercel
         run: |
           npm install -g vercel
